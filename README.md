@@ -11,21 +11,9 @@ A simple **number guessing game** written in C where the player tries to guess a
 
 ## 🛠️ How to Play
 
-1. **Compile the program** using:  
+ **Compile the program** using:  
    ```sh
    gcc guess_number.c -o guess_number
-Run the executable:
-./guess_number
-Enter your name and start guessing!
-What's your name buddy?  
-John  
-Welcome John to our number guessing game ;)  
-Enter a number between 1 & 100= 50  
-Guessed number is very big, try again !!  
-Number of Guesses = 2  
-Enter a number between 1 & 100= 25  
-Congrats!! Correct guess John  
-Number of Guesses = 3  
 
 💡 Possible Improvements
 Add difficulty levels (easy, medium, hard)
